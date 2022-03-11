@@ -1,4 +1,5 @@
-### Hi there 👋
+### 20165366 김철진
+### CAU_IE Digital Imaging
 
 <!--
 **Chuljin-Kim/ChulJin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
